@@ -1,4 +1,4 @@
-code-sample-html
+Code sample HTML
 ================
 
-Code samples HTML utilizados nos tutoriais
+[Guia de integração rápida com HTML](https://www.paypal-brasil.com.br/desenvolvedores/tutorial/guia-de-integracao-rapida-usando-html/)
